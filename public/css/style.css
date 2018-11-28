@@ -13,10 +13,22 @@
 .theme-dark {color:#fff !important; background-color:#466522 !important}
 .theme-action {color:#fff !important; background-color:#466522 !important}
 
-.theme {color:#fff !important; background-color:#8bc34a !important}
+.theme {background-color:#8bc34a !important}
 .text-theme {color:#8bc34a !important}
 .border-theme {border-color:#8bc34a !important}
 
 .hover-theme:hover {color:#fff !important; background-color:#8bc34a !important}
 .hover-text-theme:hover {color:#8bc34a !important}
 .hover-border-theme:hover {border-color:#8bc34a !important}
+
+
+
+
+
+
+
+
+
+
+
+

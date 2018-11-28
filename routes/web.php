@@ -22,7 +22,7 @@ Route::get('/application', function () {
 
 //call to controller class
 
-Route::get('/', "AkashController@show");
+//Route::get('/', "AkashController@show");
 
 
 //Route::redirect('welcome', 'application');
